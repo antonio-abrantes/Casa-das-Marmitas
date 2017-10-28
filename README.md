@@ -4,6 +4,7 @@ Sistema implementado para o portfólio individual do 5º Semestre de ADS - UNOPA
 <ul>
     <li>Portfólio inidividual do 5º Semestre</li>
     <li>Autor: Antônio Abrantes</li>
+    <li>Pagina pessoal: https://tonhus.github.io/</li>
     <li>Curso: Análise e Desenvolvimento de Sistemas</li>
     <li>Faculdade: UNOPAR</li>
     <li>Data: Outubro de 2017</li>
@@ -27,6 +28,19 @@ Sistema implementado para o portfólio individual do 5º Semestre de ADS - UNOPA
 
 <img src="https://firebasestorage.googleapis.com/v0/b/curso-fb-7081c.appspot.com/o/casa-das-marmitas%2Findex.jpg?alt=media&token=1f8d818e-caa2-4425-8a3e-166861b2bd58" alt="">
 
+<h2>Aplicação de demonstração</h2>
+    <ul>
+        <li>LINK: https://casadasmarmitas.herokuapp.com/index.php</li>
+        <li>Plataforma de hospedagem: https://www.heroku.com/</li>
+    </ul>
+<br>
+    <h2>Observações</h2>
+    <p>Algumas funcionalidades do sistema estão desativadas e outras não estão implementadas nesta versão,
+        pois o mesmo é apenas para uma demonstração de algumas e é essencialmente para fins acadêmicos, porem, quem quiser baixar,
+        estudar, modificar, ativar os recursos ou implementar outros, pode ficar a vontade. <br>
+        A pasta <b>"sql"</b> na raiz do projeto contém toda a estrutura de criação do banco de dados<br>
+        O arquivo <b>"estrutura.html"</b> mostra um mapa de todos os diretorios do projeto.
+    </p>
 <h3>Requisitos para o desenvolvimento do trabalho</h3>
 <ol type="1">
     <li>
