@@ -2,8 +2,7 @@
 # FileName="Connection_php_mysql.htm"
 # Type="MYSQL"
 # HTTP="true"
-$strindConection = "us-cdbr-iron-east-05.cleardb.net";
-$hostname_conexao = "ec2-54-197-253-210.compute-1.amazonaws.com";
+$hostname_conexao = "us-cdbr-iron-east-05.cleardb.net";
 $database_conexao = "heroku_b3a6eeed51132eb";
 $username_conexao = "bc4f6c49b48f09";
 $password_conexao = "8c812a4a";
