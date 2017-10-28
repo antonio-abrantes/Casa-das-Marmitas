@@ -3,7 +3,7 @@
         <div class="page-header">
             <h3>CADASTRO DE PEDIDO - Nº <span id="num_pedido"><?php echo floatval($novo_pedido['novo_pedido']) + 1; ?></span></h3>
         </div>
-        <form class="form-horizontal" method="POST" id="form-pedido">
+        <form class="form-horizontal" method="POST" action="listar-pedidos-0" id="form-pedido" >
 
             <!-- Modal de confirmação de pedido -->
             <div class="modal fade" id="confirm-modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel">
@@ -146,6 +146,7 @@
                     <button id="add-item" class="btn btn-primary">ADD ITEM</button>
 
                     <input class="btn btn-default" data-toggle="modal" data-target="#cancel-modal" type="button" value="Cancelar">
+
 
                     <button id="json-item" class="btn btn-warning">TESTE</button>
 

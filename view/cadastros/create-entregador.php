@@ -1,6 +1,6 @@
 <h3 class="page-header">CADASTRO DE ENTREGADOR</h3>
 
-<form method="POST" action="" accept-charset="UTF-8"><input name="_token" type="hidden" value="">
+<form method="POST" action="listar-entregadores-0" accept-charset="UTF-8"><input name="_token" type="hidden" value="">
 
     <!-- Modal de confirmação de pedido -->
     <div class="modal fade" id="confirm-modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel">
