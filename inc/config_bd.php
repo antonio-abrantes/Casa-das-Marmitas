@@ -6,7 +6,7 @@ class Sql {
 
     public function __construct(){
 
-        return $this->conn = mysqli_connect("127.0.0.1", "root", "", "bd_marmitas");
+        return $this->conn = mysqli_connect("ec2-54-197-253-210.compute-1.amazonaws.com", "txoyhygxyzenuj", "90fb0d5420ab5351bb1a49418a0812d878b120ad0b0dc4eea347a4ead58dee3d", "d1eunm11v5sl4q");
 
     }
 
