@@ -1,0 +1,19 @@
+/*  CSS Personalizado  */
+*{
+    font-family: 'Lato', sans-serif;
+}
+#faixa-preta-cabecalho{
+    height: 60px;
+    background-color: #23282e;
+}
+
+#brand-logo{
+    height: 60px;
+}
+.btn{
+    width: 120px;
+    margin-right: 15px;
+}
+#pedidos .indice{
+    width: 40px;
+}
