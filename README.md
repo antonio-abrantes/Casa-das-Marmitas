@@ -4,7 +4,7 @@ Sistema implementado para o portfólio individual do 5º Semestre de ADS - UNOPA
 <ul>
     <li>Portfólio inidividual do 5º Semestre</li>
     <li>Autor: Antônio Abrantes</li>
-    <li>Pagina pessoal: https://tonhus.github.io/</li>
+    <li>Pagina pessoal: https://antonio-abrantes.github.io/</li>
     <li>Curso: Análise e Desenvolvimento de Sistemas</li>
     <li>Faculdade: UNOPAR</li>
     <li>Data: Outubro de 2017</li>
